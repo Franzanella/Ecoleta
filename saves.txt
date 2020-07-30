@@ -1,0 +1,5 @@
+p/ iniciar o servidor
+npm start
+
+p/ iniciar o sqlite3
+node src/database/db.js
